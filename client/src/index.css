@@ -1,3 +1,8 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+/* bg for all pages */
+body {
+  background-color: rgb(242, 245, 242);
+}
